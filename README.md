@@ -1,4 +1,4 @@
-# Dojo - Blog is a react website
+# Dojo - Blog : A React Website
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
