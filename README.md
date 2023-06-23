@@ -11,7 +11,7 @@ Run Server: npx json-server --watch data/db.json --port 8000
   Loading data/db.json
   Done
   
-  Home
+  Home:
   http://localhost:8000
 
   Resources
