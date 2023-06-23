@@ -14,7 +14,7 @@ Run Server: npx json-server --watch data/db.json --port 8000
   Home:
   http://localhost:8000
 
-  Resources
+  Resources:
   http://localhost:8000/blogs
 
 ## Available Scripts
