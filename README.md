@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Available Scripts
+
 ### `run server`
 
 Run Server: npx json-server --watch data/db.json --port 8000
@@ -16,8 +18,6 @@ Run Server: npx json-server --watch data/db.json --port 8000
 
   Resources:
   http://localhost:8000/blogs
-
-## Available Scripts
 
 In the project directory, you can run:
 
